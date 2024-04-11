@@ -1,0 +1,3 @@
+C:\Users\anthony.cox\source\repos\MazeConsole\obj\x86\Debug\MazeCon.csproj.AssemblyReference.cache
+C:\Users\anthony.cox\source\repos\MazeConsole\obj\x86\Debug\MazeCon.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthony.cox\source\repos\MazeConsole\obj\x86\Debug\MazeCon.csproj.CoreCompileInputs.cache
